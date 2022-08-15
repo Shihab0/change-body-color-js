@@ -15,12 +15,16 @@ body{
 
 h1{
     text-shadow: 0 0 5px white;
+    font-size: 4rem;
 }
 
 #btn{
-    padding: 10px 30px;
+    padding: 15px 40px;
     border-radius: 10px;
     background-color: transparent;
-    box-shadow: 0 0 5px black;
+    box-shadow: 0 0 10px black;
     cursor: pointer;
+    font-size: 22px;
+    text-shadow: 0 0 5px white;
+    font-weight: bold;
 }
